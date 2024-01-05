@@ -59,8 +59,8 @@ Primary*/
    border-bottom-right-radius: 8em;
    padding:3rem;
    height: 86svh;
-   width: 48svw;
-   justify-content:stretch;
+   width: 52svw;
+   justify-content: space-between;
    
 }
 
